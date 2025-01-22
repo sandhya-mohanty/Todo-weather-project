@@ -24,7 +24,7 @@ This is a description of my project.
 ## Installation
 1. Clone the repo:
    ```bash
-
+https://github.com/sandhya-mohanty/Todo-weather-project.git
 ## Install dependencies:
 npm install
 
